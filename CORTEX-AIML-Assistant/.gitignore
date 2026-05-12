@@ -1,0 +1,29 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+*.egg-info/
+
+# Node
+node_modules/
+build/
+.npm/
+
+# Data (too large for GitHub)
+data/pdf_documents/
+
+# Local files
+cortex_metrics.csv
+test_pdf.py
+uploaded_docs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
