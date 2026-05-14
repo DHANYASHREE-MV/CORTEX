@@ -17,20 +17,7 @@
 
 ---
 
-## 👥 Team
 
-| Name | USN |
-|------|-----|
-| Rakshitha PR | 1DS22AI041 |
-| Vrunda M | 1DS22AI060 |
-| Dhanyashree | 1DS22AI012 |
-| Sonu Kumar | 1DS22AI053 |
-
-**Guide:** Dr. Reshma S
-**Co-Guide:** Mr. Poornapragna · Mr. Shomron
-**Department:** Artificial Intelligence & Machine Learning
-**College:** Dayananda Sagar College of Engineering, Bangalore
-**Batch:** 2022–26
 
 ---
 
