@@ -17,20 +17,12 @@
 
 ---
 
-## 👥 Team
 
-| Name | USN |
-|------|-----|
-| Rakshitha PR | 1DS22AI041 |
-| Vrunda M | 1DS22AI060 |
+
 | Dhanyashree | 1DS22AI012 |
-| Sonu Kumar | 1DS22AI053 |
 
-**Guide:** Dr. Reshma S
-**Co-Guide:** Mr. Poornapragna · Mr. Shomron
-**Department:** Artificial Intelligence & Machine Learning
-**College:** Dayananda Sagar College of Engineering, Bangalore
-**Batch:** 2022–26
+
+
 
 ---
 
@@ -357,7 +349,6 @@ Licensed under the MIT License — see [LICENSE](LICENSE) for details.
 
 <div align="center">
 
-**Built with ❤️ by Team CORTEX · AIML Dept, DSCE Bangalore · 2022–26**
 
 ![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue?style=flat-square&logo=python)
 ![Powered by AI](https://img.shields.io/badge/Powered%20by-AI-purple?style=flat-square)
